@@ -7,4 +7,7 @@
 ### CLI起動
 `redis-cli`
 ### key一覧確認
+`auth 123456`
 `keys *`
+### コマンド一覧
+http://redis.shibu.jp/commandreference/
